@@ -1,0 +1,5 @@
+{
+  "name": "ProfileSpace",
+  "description": "A productivity workspace manager that allows users to create and switch between isolated application profiles. Features AI-powered profile configuration and data segregation, simulating a multi-instance environment for web-based tasks.",
+  "requestFramePermissions": []
+}
